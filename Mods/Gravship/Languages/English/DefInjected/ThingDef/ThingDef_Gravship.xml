@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<sbz_GravshipCrate.description>A gravship crate that can hold up to 12 stacks of various items.</sbz_GravshipCrate.description>
+	<sbz_2x3GravshipCrate.description>A gravship crate that can hold up to 18 stacks of various items.</sbz_2x3GravshipCrate.description>
+	<sbz_2x4GravshipCrate.description>A gravship crate that can hold up to 24 stacks of various items.</sbz_2x4GravshipCrate.description>
+	<sbz_LongGravshipCrate.description>A gravship crate that can hold up to 30 stacks of various items.</sbz_LongGravshipCrate.description>
+	<sbz_LargeGravshipCrate.description>A large gravship crate that can hold up to 27 stacks of various items.</sbz_LargeGravshipCrate.description>
+	<sbz_3x4GravshipCrate.description>A large gravship crate that can hold up to 36 stacks of various items.</sbz_3x4GravshipCrate.description>
+	<sbz_3x5GravshipCrate.description>A large gravship crate that can hold up to 45 stacks of various items.</sbz_3x5GravshipCrate.description>
+	<sbz_GravshipTwoTierShelf.description>A gravship 2-tier shelf that can hold up to 6 stacks of various items.</sbz_GravshipTwoTierShelf.description>
+</LanguageData>

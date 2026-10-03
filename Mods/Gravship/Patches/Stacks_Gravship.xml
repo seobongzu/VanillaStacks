@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/ThingDef[@Name="sbzGravshipCrateBase" or defName="sbz_GravshipTwoTierShelf"]/building/maxItemsInCell</xpath>
+		<value>
+			<maxItemsInCell>3</maxItemsInCell>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/ThingDef[defName="sbz_GravshipCrate"]/costList</xpath>
+		<value>
+			<costList>
+				<Steel>40</Steel>
+			</costList>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/ThingDef[defName="sbz_GravshipCrate"]/statBases/WorkToBuild</xpath>
+		<value>
+			<WorkToBuild>1000</WorkToBuild>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/ThingDef[defName="sbz_GravshipCrate"]/description</xpath>
+		<value>
+			<description>A gravship crate that can hold up to 12 stacks of various items.</description>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/ThingDef[defName="sbz_2x3GravshipCrate"]/costList</xpath>
+		<value>
+			<costList>
+				<Steel>60</Steel>
+			</costList>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/ThingDef[defName="sbz_2x3GravshipCrate"]/statBases/WorkToBuild</xpath>
+		<value>
+			<WorkToBuild>1500</WorkToBuild>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/ThingDef[defName="sbz_2x3GravshipCrate"]/description</xpath>
+		<value>
+			<description>A gravship crate that can hold up to 18 stacks of various items.</description>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/ThingDef[defName="sbz_2x4GravshipCrate"]/costList</xpath>
+		<value>
+			<costList>
+				<Steel>80</Steel>
+			</costList>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/ThingDef[defName="sbz_2x4GravshipCrate"]/statBases/WorkToBuild</xpath>
+		<value>
+			<WorkToBuild>2000</WorkToBuild>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/ThingDef[defName="sbz_2x4GravshipCrate"]/description</xpath>
+		<value>
+			<description>A gravship crate that can hold up to 24 stacks of various items.</description>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/ThingDef[defName="sbz_LongGravshipCrate"]/costList</xpath>
+		<value>
+			<costList>
+				<Steel>100</Steel>
+			</costList>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/ThingDef[defName="sbz_LongGravshipCrate"]/statBases/WorkToBuild</xpath>
+		<value>
+			<WorkToBuild>2500</WorkToBuild>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/ThingDef[defName="sbz_LongGravshipCrate"]/description</xpath>
+		<value>
+			<description>A gravship crate that can hold up to 30 stacks of various items.</description>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/ThingDef[defName="sbz_LargeGravshipCrate"]/costList</xpath>
+		<value>
+			<costList>
+				<Steel>90</Steel>
+			</costList>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/ThingDef[defName="sbz_LargeGravshipCrate"]/statBases/WorkToBuild</xpath>
+		<value>
+			<WorkToBuild>2250</WorkToBuild>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/ThingDef[defName="sbz_LargeGravshipCrate"]/description</xpath>
+		<value>
+			<description>A large gravship crate that can hold up to 27 stacks of various items.</description>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/ThingDef[defName="sbz_3x4GravshipCrate"]/costList</xpath>
+		<value>
+			<costList>
+				<Steel>120</Steel>
+			</costList>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/ThingDef[defName="sbz_3x4GravshipCrate"]/statBases/WorkToBuild</xpath>
+		<value>
+			<WorkToBuild>3000</WorkToBuild>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/ThingDef[defName="sbz_3x4GravshipCrate"]/description</xpath>
+		<value>
+			<description>A large gravship crate that can hold up to 36 stacks of various items.</description>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/ThingDef[defName="sbz_3x5GravshipCrate"]/costList</xpath>
+		<value>
+			<costList>
+				<Steel>150</Steel>
+			</costList>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/ThingDef[defName="sbz_3x5GravshipCrate"]/statBases/WorkToBuild</xpath>
+		<value>
+			<WorkToBuild>3750</WorkToBuild>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/ThingDef[defName="sbz_3x5GravshipCrate"]/description</xpath>
+		<value>
+			<description>A large gravship crate that can hold up to 45 stacks of various items.</description>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/ThingDef[defName="sbz_GravshipTwoTierShelf"]/costList</xpath>
+		<value>
+			<costList>
+				<Steel>20</Steel>
+			</costList>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/ThingDef[defName="sbz_GravshipTwoTierShelf"]/statBases/WorkToBuild</xpath>
+		<value>
+			<WorkToBuild>500</WorkToBuild>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/ThingDef[defName="sbz_GravshipTwoTierShelf"]/description</xpath>
+		<value>
+			<description>A gravship 2-tier shelf that can hold up to 6 stacks of various items.</description>
+		</value>
+	</Operation>
+</Patch>

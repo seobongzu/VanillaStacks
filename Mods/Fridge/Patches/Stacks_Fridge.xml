@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/ThingDef[defName="sbz_LargeFridge" or defName="sbz_CorpseFridge"]/building/maxItemsInCell</xpath>
+		<value>
+			<maxItemsInCell>3</maxItemsInCell>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/ThingDef[defName="sbz_LargeFridge"]/costList</xpath>
+		<value>
+			<costList>
+				<Steel>40</Steel>
+				<ComponentIndustrial>1</ComponentIndustrial>
+			</costList>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/ThingDef[defName="sbz_LargeFridge"]/statBases/WorkToBuild</xpath>
+		<value>
+			<WorkToBuild>1600</WorkToBuild>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/ThingDef[defName="sbz_LargeFridge"]/description</xpath>
+		<value>
+			<description>A large fridge that can keep up to 6 stacks of various items frozen.\n\nIt does not work well in temperatures above 100°C.</description>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/ThingDef[defName="sbz_CorpseFridge"]/description</xpath>
+		<value>
+			<description>A corpse fridge that can keep up to 12 corpses frozen.\n\nIt does not work well in temperatures above 100°C.</description>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/ThingDef[defName="sbz_LargeFridge"]/comps/li[@Class="CompProperties_Power"]/basePowerConsumption</xpath>
+		<value>
+			<basePowerConsumption>90</basePowerConsumption>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/ThingDef[defName="sbz_CorpseFridge"]/comps/li[@Class="CompProperties_Power"]/basePowerConsumption</xpath>
+		<value>
+			<basePowerConsumption>120</basePowerConsumption>
+		</value>
+	</Operation>
+</Patch>

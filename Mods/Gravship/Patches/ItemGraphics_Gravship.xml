@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/AdaptiveStorage.GraphicsDef[defName="sbz_GravshipTwoTierShelfASF"]/itemGraphics</xpath>
+		<value>
+			<itemGraphics>
+				<columns>
+					<c0>
+						<rows>
+							<r0>
+								<stackBehaviour>Stack</stackBehaviour>
+								<drawOffset>(0.3807,0.33,0.285)</drawOffset>
+								<drawOffsetEast>(-0.05,0.38,0.3625)</drawOffsetEast>
+								<drawOffsetWest>(0.05,0.38,0.3625)</drawOffsetWest>
+								<stackOffset>(0.46,0.01,0)</stackOffset>
+								<stackOffsetEast>(0,-0.01,0.5)</stackOffsetEast>
+								<stackOffsetWest>(0,-0.01,0.5)</stackOffsetWest>
+								<drawScale>0.85</drawScale>
+								<multipleItemsDrawSizeFactor>1</multipleItemsDrawSizeFactor>
+							</r0>
+						</rows>
+					</c0>
+					<c1>
+						<rows>
+							<r0>
+								<stackBehaviour>Stack</stackBehaviour>
+								<drawOffset>(-0.6193,0,0)</drawOffset>
+								<drawOffsetEast>(0.25,0.05,-0.7031)</drawOffsetEast>
+								<drawOffsetWest>(-0.25,0.05,-0.7031)</drawOffsetWest>
+								<stackOffset>(0.46,0.01,0)</stackOffset>
+								<stackOffsetEast>(0,-0.01,0.375)</stackOffsetEast>
+								<stackOffsetWest>(0,-0.01,0.375)</stackOffsetWest>
+								<drawScale>0.85</drawScale>
+								<multipleItemsDrawSizeFactor>1</multipleItemsDrawSizeFactor>
+							</r0>
+						</rows>
+					</c1>
+				</columns>
+			</itemGraphics>
+		</value>
+	</Operation>
+</Patch>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<sbz_GravshipCrate.description>다양한 종류의 물건을 최대 12묶음까지 보관할 수 있는 함선 상자입니다.</sbz_GravshipCrate.description>
+	<sbz_2x3GravshipCrate.description>다양한 종류의 물건을 최대 18묶음까지 보관할 수 있는 함선 상자입니다.</sbz_2x3GravshipCrate.description>
+	<sbz_2x4GravshipCrate.description>다양한 종류의 물건을 최대 24묶음까지 보관할 수 있는 함선 상자입니다.</sbz_2x4GravshipCrate.description>
+	<sbz_LongGravshipCrate.description>다양한 종류의 물건을 최대 30묶음까지 보관할 수 있는 함선 상자입니다.</sbz_LongGravshipCrate.description>
+	<sbz_LargeGravshipCrate.description>다양한 종류의 물건을 최대 27묶음까지 보관할 수 있는 거대한 함선 상자입니다.</sbz_LargeGravshipCrate.description>
+	<sbz_3x4GravshipCrate.description>다양한 종류의 물건을 최대 36묶음까지 보관할 수 있는 거대한 함선 상자입니다.</sbz_3x4GravshipCrate.description>
+	<sbz_3x5GravshipCrate.description>다양한 종류의 물건을 최대 45묶음까지 보관할 수 있는 거대한 함선 상자입니다.</sbz_3x5GravshipCrate.description>
+	<sbz_GravshipTwoTierShelf.description>다양한 종류의 물건을 최대 6묶음까지 보관할 수 있는 함선 2단 선반입니다.</sbz_GravshipTwoTierShelf.description>
+</LanguageData>

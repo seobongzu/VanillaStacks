@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/AdaptiveStorage.GraphicsDef[defName="sbz_LargeFridgeASF"]/itemGraphics</xpath>
+		<value>
+			<itemGraphics>
+				<columns>
+					<c0>
+						<rows>
+							<r0>
+								<stackBehaviour>Stack</stackBehaviour>
+								<drawOffset>(0.328,0.42,0.6)</drawOffset>
+								<drawOffsetEast>(0,0.47,0.7279)</drawOffsetEast>
+								<drawOffsetWest>(0,0.47,0.7279)</drawOffsetWest>
+								<stackOffset>(0.55,0.01,0)</stackOffset>
+								<stackOffsetEast>(0,-0.01,0.46)</stackOffsetEast>
+								<stackOffsetWest>(0,-0.01,0.46)</stackOffsetWest>
+								<drawScale>0.8</drawScale>
+								<multipleItemsDrawSizeFactor>1</multipleItemsDrawSizeFactor>
+							</r0>
+						</rows>
+					</c0>
+					<c1>
+						<rows>
+							<r0>
+								<stackBehaviour>Stack</stackBehaviour>
+								<drawOffset>(-0.672,0.03,0.07)</drawOffset>
+								<drawOffsetEast>(0,0.08,-0.8321)</drawOffsetEast>
+								<drawOffsetWest>(0,0.08,-0.8321)</drawOffsetWest>
+								<stackOffset>(0.55,0.01,0)</stackOffset>
+								<stackOffsetEast>(0,-0.01,0.46)</stackOffsetEast>
+								<stackOffsetWest>(0,-0.01,0.46)</stackOffsetWest>
+								<drawScale>0.8</drawScale>
+								<multipleItemsDrawSizeFactor>1</multipleItemsDrawSizeFactor>
+							</r0>
+						</rows>
+					</c1>
+				</columns>
+			</itemGraphics>
+		</value>
+	</Operation>
+</Patch>

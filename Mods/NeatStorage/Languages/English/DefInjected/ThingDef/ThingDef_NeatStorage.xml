@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<sbz_CorpseSpot.description>A spot for piling up to 3 corpses.</sbz_CorpseSpot.description>
+	<sbz_OpenShelf.description>An open shelf that can hold up to 6 stacks of various items.</sbz_OpenShelf.description>
+	<sbz_TwoTierDisplayShelf.description>A 2-tier display shelf that can hold up to 6 stacks of various items.</sbz_TwoTierDisplayShelf.description>
+	<sbz_TallDisplayShelf.description>A tall shelf that can hold up to 6 stacks of various items.</sbz_TallDisplayShelf.description>
+	<sbz_NarrowTallDisplayShelf.description>A tall and narrow shelf that can hold up to 3 stacks of various items.</sbz_NarrowTallDisplayShelf.description>
+	<sbz_WideHangerShelf.description>A wardrobe that can hold up to 6 pieces of apparel.</sbz_WideHangerShelf.description>
+	<sbz_HangerShelf.description>A narrow wardrobe that can hold up to 3 pieces of apparel.</sbz_HangerShelf.description>
+	<sbz_DisplayCabinet.description>A display cabinet that can hold up to 6 stacks of various items.</sbz_DisplayCabinet.description>
+	<sbz_NarrowDisplayCabinet.description>A narrow display cabinet that can hold up to 3 stacks of various items.</sbz_NarrowDisplayCabinet.description>
+	<sbz_TallCrate.description>A tall crate that can hold up to 12 stacks of various items.</sbz_TallCrate.description>
+	<sbz_Crate.description>A large crate that can hold up to 12 stacks of various items.</sbz_Crate.description>
+	<sbz_MidCrate.description>A crate that can hold up to 6 stacks of various items.</sbz_MidCrate.description>
+	<sbz_SmallCrate.description>A small crate that can hold up to 3 stacks of various items.</sbz_SmallCrate.description>
+	<sbz_Pallet.description>A pallet that can hold up to 12 stacks of various items.</sbz_Pallet.description>
+	<sbz_HalfPallet.description>A half pallet that can hold up to 6 stacks of various items.</sbz_HalfPallet.description>
+	<sbz_MiniPallet.description>A mini pallet that can hold up to 3 stacks of various items.</sbz_MiniPallet.description>
+	<sbz_HorizontalWeaponRack.description>A horizontal weapon rack that can display up to 6 weapons.</sbz_HorizontalWeaponRack.description>
+	<sbz_VerticalWeaponRack.description>A vertical weapon rack that can display up to 6 weapons.</sbz_VerticalWeaponRack.description>
+	<sbz_TextileRack.description>A textile rack that can hold up to 3 stacks of various textiles.</sbz_TextileRack.description>
+	<sbz_MeatHook.description>A meat hook that can hang up to 6 stacks of corpses or meat.</sbz_MeatHook.description>
+	<sbz_Safe.description>A safe that can store up to 3 stacks of various items.</sbz_Safe.description>
+	<sbz_Drum.description>A drum that can hold up to 3 stacks of various items.</sbz_Drum.description>
+</LanguageData>

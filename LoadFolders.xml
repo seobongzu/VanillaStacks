@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<loadFolders>
+	<v1.5>
+		<li>/</li>
+		<li IfModActive="sbz.NeatStorage">Mods/NeatStorage</li>
+		<li IfModActive="sbz.NeatStorageFridge">Mods/Fridge</li>
+		<li IfModActive="sbz.GravshipStorage">Mods/Gravship</li>
+	</v1.5>
+	<v1.6>
+		<li>/</li>
+		<li IfModActive="sbz.NeatStorage">Mods/NeatStorage</li>
+		<li IfModActive="sbz.NeatStorageFridge">Mods/Fridge</li>
+		<li IfModActive="sbz.GravshipStorage">Mods/Gravship</li>
+	</v1.6>
+</loadFolders>
